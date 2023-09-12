@@ -1,7 +1,7 @@
-import cv2
+import cv2 #Display image in a window
 from cvzone.HandTrackingModule import HandDetector
-from cvzone.ClassificationModule import Classifier
-import numpy as np
+from cvzone.ClassificationModule import Classifier 
+import numpy as np # perform a wide variety of math operations on arrays 
 import math
 
 # Constants
